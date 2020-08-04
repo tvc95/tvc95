@@ -1,4 +1,13 @@
-### Hi there 👋
+### Thiago V. de Carvalho
+
+Software developer, passionate about web/mobile/game development with great UI/UX design.
+Currently working on personal projects and improving my skills.
+- 🔭 I’m currently working on a game project and a web app, which I hope I'll be showing soon!
+- 🌱 I’m currently learning React/JS and React Native
+- 📫 How to reach me:
+    - Linkedin: https://www.linkedin.com/in/thiagovcarvalho/
+    - My GitHub webpage: https://tvc95.github.io/
+
 
 <!--
 **tvc95/tvc95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
