@@ -1,7 +1,7 @@
 ### Thiago V. de Carvalho
 
-Software developer, passionate about web/mobile/game development with great UI/UX design.
-Currently working on personal projects and improving my skills.
+Passionate about web/mobile/game development with great UI/UX design. Front-End Web Developer @ PBHub Soluções.
+I'm also working on some personal projects and improving my skills.
 - 🔭 I’m currently working on a game project and a web app, which I hope I'll be showing soon!
 - 🌱 I’m currently learning React/JS and React Native
 - 📫 How to reach me:
