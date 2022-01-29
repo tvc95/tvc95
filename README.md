@@ -21,11 +21,11 @@ Tech enthusiast and passionate about web/mobile/game development with great UI/U
 <code><img height="20" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-👍 **Other interests:**
+<!-- 👍 **Other interests:**
 - 🎧 Music
 - 📖 Reading
 - 🏀 Basketball
-- 🎮 Gaming
+- 🎮 Gaming -->
 
 ### My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tvc95&show_icons=true&hide_title=true&hide_border=true&theme=radical&bg_color=0D1117" alt="Thiago's GitHub Stats" />
