@@ -1,6 +1,6 @@
 # Thiago Viana
 
-Front-end Engineer @ UFRN | Synchro - Solução Fiscal
+Front-end Engineer @ IMD/UFRN | Synchro - Solução Fiscal
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/thiagovcarvalho/"><img src="https://img.shields.io/static/v1?label=linkedin&message=Thiago Viana&color=blue&style=flat-square&logo=linkedin" /></a>
