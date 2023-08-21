@@ -30,12 +30,11 @@ Tech enthusiast and passionate about web/mobile/game development with great UI/U
 - 🏀 Basketball
 - 🎮 Gaming -->
 
+<!--
+
 ### My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tvc95&show_icons=true&hide_title=true&hide_border=true&theme=radical&bg_color=0D1117" alt="Thiago's GitHub Stats" />
 
-
-
-<!--
 **tvc95/tvc95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
