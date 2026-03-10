@@ -80,14 +80,17 @@ I’m always learning, experimenting with new technologies, and looking for bett
 
 <div align="center">
 
+<!--
 ![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tvc95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tvc95&layout=compact&theme=tokyonight&hide_border=true)
+-->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tvc95&theme=tokyonight&hide_border=true)
 
 </div>
 
+<!--
 ---
 
 ## 🌱 Currently
@@ -96,6 +99,7 @@ I’m always learning, experimenting with new technologies, and looking for bett
 - 🎨 Always chasing **great design + great code**
 - 📚 Exploring new tech and leveling up every day
 - 🎮 Still experimenting with games in my free time, because old habits die hard
+-->
 
 ---
 
